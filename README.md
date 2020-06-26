@@ -1,6 +1,6 @@
 # Awesome Aragon List
 
-A list of awesome Aragon stuff!
+> A list of awesome Aragon stuff!
 
 ## Aragon 101
 
@@ -9,51 +9,51 @@ High level intro to Aragon goes here.
 - [Wiki](https://wiki.aragon.org)
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how permissions work on Aragon.
 
-## Discover Aragon DAOs
+<br>
+
+## 🔭 Discover Aragon DAOs
 
 - [Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
 
-## Using Aragon
+<br>
+
+## 🦅 Using Aragon
 
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/)
 
-## Hacking On Aragon
+<br>
+
+## 🧰 Hacking On Aragon
 
 Tools and guides to build awesome Aragon stuff.
 
-Aragon CLI
+- [Docs](https://hack.aragon.org/docs/getting-started) - All the things.
+- [AragonCLI](https://hack.aragon.org/docs/cli-dao-commands) - A CLI tool for Aragon stuff.
+- [Frame](https://github.com/floating/frame) - Does Frame have docs?
 
-- [AragonCLI DAO Commands](https://hack.aragon.org/docs/cli-dao-commands)
+<br>
 
-Frame
-
-- Does Frame have docs?
-
-[Docs](https://hack.aragon.org/docs/getting-started)
-- [aragonPM](https://hack.aragon.org/docs/apm-intro.html)
-- [aragonOS](https://hack.aragon.org/docs/aragonos-intro.html)
-- [aragonAPI](https://hack.aragon.org/docs/api-intro.html)
-- [aragonUI](https://hack.aragon.org/docs/aragonui-intro.html)
-- [aragonCLI](https://hack.aragon.org/docs/cli-intro)
-- [Radspec](https://github.com/aragon/radspec)
-
-## Tutorials
+## 📜 Tutorials
 
 - [App Development Guide](https://hack.aragon.org/docs/tutorial)
 - [App Publishing Guide](https://hack.aragon.org/docs/guides-publish)
 - [Deploying Custom Organizations](https://hack.aragon.org/docs/guides-custom-deploy)
 
-## Aragon DAO Templates
+<br>
+
+## 🍱 Aragon DAO Templates
 
 - [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon minus rage-kick.
 - [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
 - [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transfers.
 
-## Aragon Apps
+<br>
+
+## 📱 Aragon Apps
 
 Apps you can plug into your Aragon DAO.
 
-### Tokens & Financial Stuff
+### 💱 Tokens & Financial Stuff
 
 - [Token manager](https://aragon.helpscoutdocs.com/article/18-token-manager) - An app that creates and manages tokens that can be used in Aragon DAOs.
 - [Vault](https://github.com/aragon/aragon-apps/tree/master/apps/vault) - A vault that can be configured to be managed by DAO token holders (requires using [Finance](https://aragon.helpscoutdocs.com/article/20-finance) app as a front-end).
@@ -66,7 +66,7 @@ Apps you can plug into your Aragon DAO.
 - [Rewards](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/rewards) - Dividends for DAO members.
 - [Payroll](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll) - Recurring payments from the DAO.
 
-### Governance
+### ☑ Governance
 
 - [Survey](https://github.com/aragon/aragon-apps/tree/master/apps/survey) - Signalling votes for DAO token holders.
 - [Voting](https://aragon.helpscoutdocs.com/article/19-voting) - The default voting app that ships with most Aragon DAOs.
@@ -78,7 +78,7 @@ Apps you can plug into your Aragon DAO.
 - [Aragon agreements](https://aragon.org/agreements) - Operating agreements for DAOs. Members can refer to this doc in arbitration if they raise a dispute around a DAO action.
 - [SVRP](https://github.com/aragon/svrp) - Simplified voting relayer protocol (layer 2 voting) for Aragon DAOs.
 
-### Other Stuff
+### 🤖 Other Stuff
 
 - [MyID](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyID) - No idea. Please submit a PR if you figure it out.
 - [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens) - No idea. Please submit a PR if you figure it out.
@@ -89,9 +89,11 @@ Apps you can plug into your Aragon DAO.
 - [Staking](https://github.com/aragon/staking) - The main motivation is to be used in conjunction with [Agreements](https://github.com/aragon/aragon-apps/tree/master/apps/agreement) in the context of Aragon Network, but it has been designed to be as generic as possible, in order to allow for other use cases too.
 - [Use wallet](https://github.com/aragon/use-wallet) - An SDK to connect a dapp (DAO) to an Ethereum provider (wallet).
 
-## Unorganized
+<br>
 
-Organizations that hacked on Aragon
+## 🤷 Unorganized
+
+### Organizations that hacked on Aragon
 
 - [Empower The DAO apps](https://github.com/empowerthedao) - Aragon apps for Uniswap, Livepeer, and more stuff.
 - [DAOnuts](https://github.com/daonuts) - Apps for dual-token voting, subscriptions, token claims, and more.
@@ -100,13 +102,12 @@ Organizations that hacked on Aragon
 - [P2P Models](https://github.com/p2pmodels) - A set of apps organized around document editing.
 - [Aragon](https://github.com/aragon/) - All the stuff that Aragon One worked on. Includes some apps, but mostly core infra.
 
-Delegated voting
+### Delegated voting
 
 - https://github.com/aragon/labs/issues/3
 - https://github.com/1Hive/Hive-Democracy
 - https://github.com/aragon/aragon-apps/pull/881
 
-Requests for Aragon apps
+### Requests for Aragon apps
 
 - https://forum.aragon.org/c/product/requests
-
