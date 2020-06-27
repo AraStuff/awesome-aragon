@@ -79,6 +79,7 @@ Apps you can plug into your Aragon DAO.
 - [Delay](https://github.com/1Hive/delay-app/blob/master/docs/user-guide.md) - The Delay app is a [forwarder](https://hack.aragon.org/docs/forwarding-intro). It can delay, pause, and resume an action initiated by a DAO member.
 - [Aragon agreements](https://aragon.org/agreements) - Operating agreements for DAOs. Members can refer to this doc in arbitration if they raise a dispute around a DAO action.
 - [SVRP](https://github.com/aragon/svrp) - Simplified voting relayer protocol (layer 2 voting) for Aragon DAOs.
+- [Voting connectors](https://github.com/aragonone/voting-connectors) - Stuff to wrap and/or connect non [MiniMe tokens](https://github.com/giveth/minime) to Aragon voting apps. 
 - [Token wrapper](https://github.com/aragonone/voting-connectors/tree/master/apps/token-wrapper) - Wrap any ERC-20 token to be used in Aragon voting apps to control Aragon DAOs.
 
 ### 🤖 Other Stuff
