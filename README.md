@@ -98,7 +98,7 @@ Apps you can plug into your Aragon DAO.
 
 ## 🤷 Unorganized
 
-### Organizations that hacked on Aragon
+### Organizations that hacked and/or are hacking on Aragon
 
 - [Empower The DAO apps](https://github.com/empowerthedao) - Aragon apps for Uniswap, Livepeer, and more stuff.
 - [DAOnuts](https://github.com/daonuts) - Apps for dual-token voting, subscriptions, token claims, and more.
@@ -108,7 +108,7 @@ Apps you can plug into your Aragon DAO.
 - [Aragon](https://github.com/aragon/) - All the stuff that Aragon One worked on. Includes some apps, but mostly core infra.
 - [LexDAO](https://github.com/lexDAO) - Pushes forward the cutting edge of Aragon DAOs and DAO to DAO interactions via Agent.
 
-### Delegated voting
+### Delegated voting explorations
 
 - https://github.com/aragon/labs/issues/3
 - https://github.com/1Hive/Hive-Democracy
