@@ -80,7 +80,8 @@ Apps you can plug into your Aragon DAO.
 - [Aragon agreements](https://aragon.org/agreements) - Operating agreements for DAOs. Members can refer to this doc in arbitration if they raise a dispute around a DAO action.
 - [SVRP](https://github.com/aragon/svrp) - Simplified voting relayer protocol (layer 2 voting) for Aragon DAOs.
 - [Voting connectors](https://github.com/aragonone/voting-connectors) - Stuff to wrap and/or connect non [MiniMe tokens](https://github.com/giveth/minime) to Aragon voting apps. 
-- [Token wrapper](https://github.com/aragonone/voting-connectors/tree/master/apps/token-wrapper) - Wrap any ERC-20 token to be used in Aragon voting apps to control Aragon DAOs.
+  - [Voting aggregator](https://github.com/aragonone/voting-connectors/blob/master/apps/voting-aggregator) - Aggregate voting power over multiple sources.
+  - [Token wrapper](https://github.com/aragonone/voting-connectors/tree/master/apps/token-wrapper) - Wrap any ERC-20 token to be used in Aragon voting apps.
 
 ### 🤖 Other Stuff
 
