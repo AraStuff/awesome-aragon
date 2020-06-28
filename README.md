@@ -115,6 +115,8 @@ Things that improve the experience of using Aragon DAOs.
 - [P2P Models](https://github.com/p2pmodels) - A set of apps organized around document editing.
 - [Aragon](https://github.com/aragon/) - All the stuff that Aragon One worked on. Includes some apps, but mostly core infra.
 - [LexDAO](https://github.com/lexDAO) - Pushes forward the cutting edge of Aragon DAOs and DAO to DAO interactions via Agent.
+- [HelpDAO](https://github.com/helpdao/) - Making it easy to spin up DAOs to receive and distribute donations.
+- [AraCred](https://github.com/aracred/) - Measuring and rewarding contributions to projects with DAO tokens.
 
 ### Delegated voting explorations
 
