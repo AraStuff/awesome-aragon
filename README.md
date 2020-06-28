@@ -97,6 +97,8 @@ Things that improve the experience of using Aragon DAOs.
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - Discord bot notifications for Aragon events.
 - [Tenderly](https://blog.tenderly.dev/how-to-monitor-your-aragon-organization-using-tenderly/) - Analytics and notifications for Aragon DAOs.
 - [InfoBot](https://github.com/abridged/info-access-bot) - Open source code to create a Telegram bot that notifies you of voting events on Aragon DAOs.
+- [AccessBot](https://github.com/abridged/info-access-bot) - Open source code to create a token permissioned chat on Telegram.
+- [Collab19 template](https://github.com/abridged/dao-help) - Open source code to create a Telegram DAO that allows people to buy tokens, create a wallet, and vote on proposals all within a chat interface.
 - [HelpDAO donation portal](https://github.com/helpdao/donation-portal) - Integrations with on and off ramps for Aragon DAOs.
 
 <br>
