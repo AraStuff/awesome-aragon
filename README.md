@@ -8,7 +8,7 @@
 
 High level intro to Aragon goes here.
 
-- [Wiki](https://wiki.aragon.org)
+- [Wiki](https://wiki.aragon.org) - All the things.
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how permissions work on Aragon.
 
 <br>
@@ -21,7 +21,7 @@ High level intro to Aragon goes here.
 
 ## 🦅 Using Aragon
 
-- [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/)
+- [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/) - Now on help.aragon.org.
 
 <br>
 
@@ -93,6 +93,17 @@ Apps you can plug into your Aragon DAO.
 - [MESG](https://github.com/mesg-foundation/aragon) - This application allows you to connect any events from your organisation to external services to be notified in real-time.
 - [Staking](https://github.com/aragon/staking) - The main motivation is to be used in conjunction with [Agreements](https://github.com/aragon/aragon-apps/tree/master/apps/agreement) in the context of Aragon Network, but it has been designed to be as generic as possible, in order to allow for other use cases too.
 - [Use wallet](https://github.com/aragon/use-wallet) - An SDK to connect a dapp (DAO) to an Ethereum provider (wallet).
+
+<br>
+
+## DAO UX
+
+Things that improve the experience of using Aragon DAOs.
+
+- [ArgoDisco](https://eth.taxi/blog/dao_notifications) - Discord bot notifications for Aragon events.
+- [Tenderly](https://blog.tenderly.dev/how-to-monitor-your-aragon-organization-using-tenderly/) - Analytics and notifications for Aragon DAOs.
+- [InfoBot](https://github.com/abridged/info-access-bot) - Open source code to create a Telegram bot that notifies you of voting events on Aragon DAOs.
+- [HelpDAO donation portal](https://github.com/helpdao/donation-portal) - Integrations with on and off ramps for Aragon DAOs.
 
 <br>
 
