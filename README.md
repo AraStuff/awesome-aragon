@@ -100,6 +100,7 @@ Things that improve the experience of using Aragon DAOs.
 - [AccessBot](https://github.com/abridged/info-access-bot) - Open source code to create a token permissioned chat on Telegram.
 - [Collab19 template](https://github.com/abridged/dao-help) - Open source code to create a Telegram DAO that allows people to buy tokens, create a wallet, and vote on proposals all within a chat interface.
 - [HelpDAO donation portal](https://github.com/helpdao/donation-portal) - Integrations with on and off ramps for Aragon DAOs.
+- [AraCred](https://github.com/aracred/) - Measure and reward contributions to open source projects and mint tokens proportionally.
 
 <br>
 
