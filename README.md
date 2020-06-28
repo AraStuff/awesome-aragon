@@ -106,7 +106,7 @@ Things that improve the experience of using Aragon DAOs.
 
 ## 🤷 Unorganized
 
-### Organizations that hacked and/or are hacking on Aragon
+### Organizations that do Aragon stuff
 
 - [Empower The DAO apps](https://github.com/empowerthedao) - Aragon apps for Uniswap, Livepeer, and more stuff.
 - [DAOnuts](https://github.com/daonuts) - Apps for dual-token voting, subscriptions, token claims, and more.
@@ -117,6 +117,7 @@ Things that improve the experience of using Aragon DAOs.
 - [LexDAO](https://github.com/lexDAO) - Pushes forward the cutting edge of Aragon DAOs and DAO to DAO interactions via Agent.
 - [HelpDAO](https://github.com/helpdao/) - Making it easy to spin up DAOs to receive and distribute donations.
 - [AraCred](https://github.com/aracred/) - Measuring and rewarding contributions to projects with DAO tokens.
+- [Arbridged](https://github.com/abridged/) - Collab19 and CollabLand.
 
 ### Delegated voting explorations
 
