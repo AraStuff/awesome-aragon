@@ -8,6 +8,7 @@
 
 High level intro to Aragon goes here.
 
+- [Prerequisites](https://help.aragon.org/article/7-prerequisites) - Stuff you'll need to figure out before you can start using Aragon.
 - [Wiki](https://wiki.aragon.org) - All the things.
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how permissions work on Aragon.
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/) - Now on help.aragon.org.
