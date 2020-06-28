@@ -10,18 +10,8 @@ High level intro to Aragon goes here.
 
 - [Wiki](https://wiki.aragon.org) - All the things.
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how permissions work on Aragon.
-
-<br>
-
-## 🔭 Discover Aragon DAOs
-
-- [Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
-
-<br>
-
-## 🦅 Using Aragon
-
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/) - Now on help.aragon.org.
+- [Aragon Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
 
 <br>
 
@@ -37,6 +27,8 @@ Tools and guides to build awesome Aragon stuff.
 
 ## 📜 Tutorials
 
+How to Aragon.
+
 - [App Development Guide](https://hack.aragon.org/docs/tutorial)
 - [App Publishing Guide](https://hack.aragon.org/docs/guides-publish)
 - [Deploying Custom Organizations](https://hack.aragon.org/docs/guides-custom-deploy)
@@ -44,6 +36,8 @@ Tools and guides to build awesome Aragon stuff.
 <br>
 
 ## 🍱 Aragon DAO Templates
+
+Aragon DAO design patterns that are easy to deploy.
 
 - [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon minus rage-kick.
 - [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
@@ -96,7 +90,7 @@ Apps you can plug into your Aragon DAO.
 
 <br>
 
-## DAO UX
+## ✨ DAO UX
 
 Things that improve the experience of using Aragon DAOs.
 
