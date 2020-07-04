@@ -62,6 +62,7 @@ Apps you can plug into your Aragon DAO.
 - [Allocations](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/allocations) - Allows the DAO to set a budget of tokens to allocate on a weekly basis.
 - [Rewards](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/rewards) - Dividends for DAO members.
 - [Payroll](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll) - Recurring payments from the DAO.
+- [Issuance](https://github.com/aragonone/issuance-app) - Issue new tokens to an address (often the DAO's Agent) based on a continuous issuance policy.
 
 ### ☑ Governance
 
