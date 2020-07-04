@@ -129,3 +129,8 @@ Things that improve the experience of using Aragon DAOs.
 ### Requests for Aragon apps
 
 - https://forum.aragon.org/c/product/requests
+
+### KarmaDAO
+
+- [DAO template](https://github.com/lkngtn/karma-template)
+- [website](https://karmadao.webflow.io/)
