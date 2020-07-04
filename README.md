@@ -43,6 +43,7 @@ Aragon DAO design patterns that are easy to deploy.
 - [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon minus rage-kick.
 - [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
 - [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transfers.
+- [Gardens](https://forum.1hive.org/t/gardens-overview/32) (Rinkeby) - Open community DAOs where token holders signal preferences in a continuous manner.
 
 <br>
 
