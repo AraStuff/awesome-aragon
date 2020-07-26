@@ -137,3 +137,8 @@ Things that improve the experience of using Aragon DAOs.
 - [DAO template](https://github.com/lkngtn/karma-template)
 - [website](https://karmadao.webflow.io/)
 - [Rinkeby DAO deployment](https://rinkeby.aragon.org/#/0x57a53e2cafaa2d9a54b4bce21209400c19eeaec3/)
+
+### FAQs / Gotchas
+
+- If you're trying to add a token to something (like TokenRequest, Redemptions, etc) on Rinkeby and the client says you don't have the permissions (but you do), it might be because the token you're trying to add is deployed on Mainnet but not Rinkeby.
+- If the CLI says `transaction path not found` just wait a few min and try again. Sometimes it just magically works.
