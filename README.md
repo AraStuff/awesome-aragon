@@ -122,6 +122,12 @@ Things that improve the experience of using Aragon DAOs.
 - [AraCred](https://github.com/aracred/) - Measuring and rewarding contributions to projects with DAO tokens.
 - [Arbridged](https://github.com/abridged/) - Collab19 and CollabLand.
 
+### Aragon prediction markets
+
+- https://github.com/luzzif/aragon-prediction-markets
+- https://github.com/levelkdev/futarchy-app 
+- https://docs.gnosis.io/conditionaltokens/docs/introduction1/
+
 ### Delegated voting explorations
 
 - https://github.com/aragon/labs/issues/3
