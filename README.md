@@ -6,7 +6,9 @@
 
 ## Aragon 101
 
-High level intro to Aragon goes here.
+Aragon TL;DR: [start here](https://connect.aragon.org/guides/aragon-basics).
+
+More Aragon stuff:
 
 - [Prerequisites](https://help.aragon.org/article/7-prerequisites) - Stuff you'll need to figure out before you can start using Aragon.
 - [Wiki](https://wiki.aragon.org) - All the things.
