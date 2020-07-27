@@ -1,3 +1,5 @@
+<p align="center"><a href="https://collab19.live/"><img alt="Aragon logo" src="https://avatars0.githubusercontent.com/u/24612534?s=200&v=4" /></a></p>
+
 # Awesome Aragon List
 
 > A list of awesome Aragon stuff!
