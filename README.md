@@ -12,9 +12,10 @@ Aragon TL;DR: [start here](https://connect.aragon.org/guides/aragon-basics).
 
 More Aragon stuff:
 
+- [Website](https://aragon.org/) - A glossy high level overview of all the Aragon things.
 - [Prerequisites](https://help.aragon.org/article/7-prerequisites) - Stuff you'll need to figure out before you can start using Aragon.
-- [Wiki](https://wiki.aragon.org) - All the things.
-- [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how permissions work on Aragon.
+- [Wiki](https://wiki.aragon.org) - A library of random Aragon things.
+- [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how the permissioning system works for AragonOS.
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/) - Now on help.aragon.org.
 - [Aragon Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
 
@@ -48,6 +49,14 @@ Aragon DAO design patterns that are easy to deploy.
 - [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
 - [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transfers.
 - [Gardens](https://forum.1hive.org/t/gardens-overview/32) (Rinkeby) - Open community DAOs where token holders signal preferences in a continuous manner.
+
+<br>
+
+## 🖥️ Aragon Interfaces
+
+- [Aragon CLI](https://hack.aragon.org/docs/cli-intro.html) - A command line interface to interact with Aragon DAOs.
+- [Aragon client](https://github.com/aragon/aragon) - The default interface for Aragon DAOs that shows apps, organization permissions, and more.
+- [Aragon connect](https://aragon.org/connect) - A library for creating custom interfaces and front-ends that use Aragon contracts on the back-end. 
 
 <br>
 
