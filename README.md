@@ -119,7 +119,7 @@ Things that improve the experience of using Aragon DAOs.
 
 <br>
 
-## Aragon DAOs in the wild
+## 🦁 Aragon DAOs in the wild
 
 - [Powered by Aragon](https://poweredby.aragon.org/) - A projects that use Aragon, some with case studies.
 - [DAOs in the Wild](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - Search for `Aragon` in the search menu.
@@ -130,6 +130,8 @@ Things that improve the experience of using Aragon DAOs.
 ## 🤷 Unorganized
 
 ### Organizations that do Aragon stuff
+
+> Many of these GitHub organizations have multiple repos full of apps and templates that have not yet been added to the above categories.
 
 - [Empower The DAO apps](https://github.com/empowerthedao) - Aragon apps for Uniswap, Livepeer, and more stuff.
 - [DAOnuts](https://github.com/daonuts) - Apps for dual-token voting, subscriptions, token claims, and more.
