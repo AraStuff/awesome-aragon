@@ -17,7 +17,6 @@ More Aragon stuff:
 - [Wiki](https://wiki.aragon.org) - A library of random Aragon things.
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how the permissioning system works for AragonOS.
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/) - Now on help.aragon.org.
-- [Aragon Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
 
 <br>
 
@@ -45,9 +44,9 @@ How to Aragon.
 
 Aragon DAO design patterns that are easy to deploy.
 
-- [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon minus rage-kick.
+- [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transferability and magnitude.
+- [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon, but without rage-kick.
 - [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
-- [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transfers.
 - [Gardens](https://forum.1hive.org/t/gardens-overview/32) (Rinkeby) - Open community DAOs where token holders signal preferences in a continuous manner.
 
 <br>
@@ -117,6 +116,14 @@ Things that improve the experience of using Aragon DAOs.
 - [Collab19 template](https://github.com/abridged/dao-help) - Open source code to create a Telegram DAO that allows people to buy tokens, create a wallet, and vote on proposals all within a chat interface.
 - [HelpDAO donation portal](https://github.com/helpdao/donation-portal) - Integrations with on and off ramps for Aragon DAOs.
 - [AraCred](https://github.com/aracred/) - Measure and reward contributions to open source projects and mint tokens proportionally.
+
+<br>
+
+## Aragon DAOs in the wild
+
+- [Powered by Aragon](https://poweredby.aragon.org/) - A projects that use Aragon, some with case studies.
+- [DAOs in the Wild](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - Search for `Aragon` in the search menu.
+- [Aragon Apiary](https://apiary.1hive.org/) - Like a block explorer, but for Aragon DAOs. Lists DAOs based on how lively they are (AUM and activity).
 
 <br>
 
