@@ -133,6 +133,7 @@ Things that improve the experience of using Aragon DAOs.
 
 > Many of these GitHub organizations have multiple repos full of apps and templates that have not yet been added to the above categories.
 
+- [Aragon One](https://github.com/aragonone/) - Many cool things in the Aragon One GitHub org that aren't in the main Aragon org.
 - [Empower The DAO apps](https://github.com/empowerthedao) - Aragon apps for Uniswap, Livepeer, and more stuff.
 - [DAOnuts](https://github.com/daonuts) - Apps for dual-token voting, subscriptions, token claims, and more.
 - [1Hive](https://github.com/1hive/) - Apiary DAO explorer, app installer, gardens, dandelion, and more.
