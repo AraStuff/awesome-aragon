@@ -102,6 +102,7 @@ Apps you can plug into your Aragon DAO.
 - [MESG](https://github.com/mesg-foundation/aragon) - This application allows you to connect any events from your organisation to external services to be notified in real-time.
 - [Staking](https://github.com/aragon/staking) - The main motivation is to be used in conjunction with [Agreements](https://github.com/aragon/aragon-apps/tree/master/apps/agreement) in the context of Aragon Network, but it has been designed to be as generic as possible, in order to allow for other use cases too.
 - [Use wallet](https://github.com/aragon/use-wallet) - An SDK to connect a dapp (DAO) to an Ethereum provider (wallet).
+- [Curve finannce custom apps](https://github.com/curvefi/curve-dao-contracts/tree/master/doc) - A custom DAO design with custom apps optimized for DeFi.
 
 <br>
 
