@@ -54,8 +54,8 @@ Aragon DAO design patterns that are easy to deploy.
 ## 🖥️ Aragon Interfaces
 
 - [Aragon CLI](https://hack.aragon.org/docs/cli-intro.html) - A command line interface to interact with Aragon DAOs.
-- [Aragon client](https://github.com/aragon/aragon) - The default interface for Aragon DAOs that shows apps, organization permissions, and more.
-- [Aragon connect](https://aragon.org/connect) - A library for creating custom interfaces and front-ends that use Aragon contracts on the back-end. 
+- [Aragon Client](https://github.com/aragon/aragon) - The default interface for Aragon DAOs that shows apps, organization permissions, and more.
+- [Aragon Connect](https://aragon.org/connect) - A library for creating custom interfaces and front-ends that use Aragon contracts on the back-end. 
 
 <br>
 
@@ -91,6 +91,7 @@ Apps you can plug into your Aragon DAO.
 - [Voting connectors](https://github.com/aragonone/voting-connectors) - Stuff to wrap and/or connect non [MiniMe tokens](https://github.com/giveth/minime) to Aragon voting apps. 
   - [Voting aggregator](https://github.com/aragonone/voting-connectors/blob/master/apps/voting-aggregator) - Aggregate voting power over multiple sources.
   - [Token wrapper](https://github.com/aragonone/voting-connectors/tree/master/apps/token-wrapper) - Wrap any ERC-20 token to be used in Aragon voting apps.
+  - [High level overview](https://forum.aragon.org/t/guide-using-a-vanilla-erc20-token-with-aragon/1000) - High level overview of how/why token wrapper adds MiniMe checkpointing to ERC-20 tokens.
 
 ### 🤖 Other Stuff
 
