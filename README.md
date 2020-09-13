@@ -13,6 +13,7 @@ Aragon TL;DR: [start here](https://connect.aragon.org/guides/aragon-basics).
 More Aragon stuff:
 
 - [Website](https://aragon.org/) - A glossy high level overview of all the Aragon things.
+- [YouTube](https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ) - Lots of great tutorials, overviews, and recordings of events.
 - [Prerequisites](https://help.aragon.org/article/7-prerequisites) - Stuff you'll need to figure out before you can start using Aragon.
 - [Wiki](https://wiki.aragon.org) - A library of random Aragon things.
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions) - Explains how the permissioning system works for AragonOS.
